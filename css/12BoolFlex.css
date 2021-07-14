@@ -5,10 +5,6 @@
     box-sizing: border-box;
 }
 
-/* Body  */
-p{
-    color: white;
-}
 
 /* Debug  */
 .debug [class*="col-"]{
